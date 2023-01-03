@@ -1,7 +1,7 @@
 
 # Book Scrabble Game - Server side
 
-This project is a dictionary implementation that uses a bloom filter to check if a word exists in a list of files, and allows users to challenge negative results by forcing a deep search over all the files.
+This is the second part of the project , as it implements the server - side functionality and mainly the Dictionary, where all the available game -words are found. This dictionary implementation uses a bloom filter to check if a word exists in a list of files, and allows users to challenge negative results by forcing a deep search over all the files.
 
  
 
