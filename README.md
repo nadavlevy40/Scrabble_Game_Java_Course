@@ -3,6 +3,9 @@
 
 This is the second part of the project , as it implements the server - side functionality and mainly the Dictionary, where all the available game -words are found. This dictionary implementation uses a bloom filter to check if a word exists in a list of files, and allows users to challenge negative results by forcing a deep search over all the files.
 
+Current goal is to successfully complete the MainTrain.java , which is an integral part of the project's mile stones.
+Later ,  will implement the GUI , according to the requirements in  the assignments.
+
  
 
 
