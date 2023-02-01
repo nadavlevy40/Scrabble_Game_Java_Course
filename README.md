@@ -46,6 +46,8 @@ This server-side program uses the following design patterns:
 
 * Strategy pattern: The CacheReplacementPolicy interface and its implementing classes (LRU and LFU) can be considered as an example of the strategy pattern, as they specify different strategies for managing the cache. The CacheManager class uses these strategies to determine which word to remove from the cache when the size exceeds the maximum limit.
 
+* Proxy / Flyweight : The DictionaryManager class creates new dictionaries by demand only , using HashMap to determine whether requested dictionary is already exist.
+
 ## Architecture
 
 The program follows a three-layer architecture, with the following layers:
