@@ -23,7 +23,7 @@ Later ,  will implement the GUI , according to the requirements in  the assignme
 
 ## Gantt Chart
 
-![Gantt Chart](./model.png)
+![Gantt Chart](./Model.png)
 
 
 
