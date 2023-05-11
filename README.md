@@ -9,10 +9,7 @@ Currently, our team is working on all aspects of the client side, including the 
 
 In addition to the development work, we are also focused on creating comprehensive documentation for the project. This includes a Gantt chart to help manage timelines and ensure that we are meeting our goals on schedule, as well as testing and other documentation to ensure that the application is robust and reliable.
 
-We are excited about the progress we are making on the project and look forward to sharing updates with the community as we move forward. Thank you for your interest in our Scrabble project!
 
-Current goal is to successfully complete the MainTrain.java , which is an integral part of the project's mile stones.
-Later ,  will implement the GUI , according to the requirements in  the assignments.
 
 ## The Team
 
