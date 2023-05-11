@@ -1,12 +1,29 @@
 
-# Book Scrabble Game - Server side
+# Book Scrabble - Overview
 
-This is the second part of the project , as it implements the server - side functionality and mainly the Dictionary, where all the available game -words are found. This dictionary implementation uses a bloom filter to check if a word exists in a list of files, and allows users to challenge negative results by forcing a deep search over all the files.
+This Book Scrabble Project is the final project of the course Advanced Software Development 2.
+The project is a client-server based application that allows users to play the similar game of Book Scrabble.
+The server side of the application is based on SOLID programming principles and includes optimization algorithms and design patterns to ensure high performance and scalability.
+
+Currently, our team is working on all aspects of the client side, including the GUI using JavaFX. We are using the user stories burning method to ensure that we are building the features that are most important to our users first.
+
+In addition to the development work, we are also focused on creating comprehensive documentation for the project. This includes a Gantt chart to help manage timelines and ensure that we are meeting our goals on schedule, as well as testing and other documentation to ensure that the application is robust and reliable.
+
+We are excited about the progress we are making on the project and look forward to sharing updates with the community as we move forward. Thank you for your interest in our Scrabble project!
 
 Current goal is to successfully complete the MainTrain.java , which is an integral part of the project's mile stones.
 Later ,  will implement the GUI , according to the requirements in  the assignments.
 
- 
+## The Team
+
+* Nadav Levy
+* Dana Gabay
+* Hila Peled
+* Agam Medina
+
+## Gantt Chart
+
+
 
 
 ## Getting Started
