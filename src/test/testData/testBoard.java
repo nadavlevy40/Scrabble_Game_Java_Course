@@ -1,4 +1,4 @@
-package testData;//test the board class located in the model package
+package testData;
 
 import Model.GameData.Board;
 import Model.GameData.Tile;
