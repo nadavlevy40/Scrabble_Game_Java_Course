@@ -20,7 +20,7 @@ In addition to the development work, we are also focused on creating comprehensi
 
 ## Gantt Chart
 
-![Gantt Chart](./Model(1).png)
+![Gantt Chart](./Model (1).png)
 
 
 
