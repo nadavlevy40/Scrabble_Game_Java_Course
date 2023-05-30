@@ -13,10 +13,11 @@ In addition to the development work, we are also focused on creating comprehensi
 
 ## The Team
 
-* Nadav Levy
-* Dana Gabay
-* Hila Peled
-* Agam Medina
+* Nadav Levy 208521443 - Nadavlevy40@gmail.com
+* Dana Gabay 216269787 - dana.gabay8@gmail.com
+* Hila Peled 205660665 - hilahp1@gmail.com
+* Agam Medina 215971102 - Medinaagam@gmail.com
+* Yael hacshor 216312025 - yaelhacshor@gmail.com
 
 ## Gantt Chart
 
